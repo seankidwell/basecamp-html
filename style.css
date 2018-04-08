@@ -1,0 +1,73 @@
+a {
+    color:#f2f7f7;
+    font-size: 14px;
+    font-family: sans-serif;
+    display: block;
+    padding: 14px 25px;
+    text-decoration: none;
+}
+li {
+    float: right;
+}
+ul {
+    background-color: grey;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding-left: 45px;
+    padding-right: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+h1 {
+    margin: 0;
+    padding: 180px 10px;
+    height: 60px;
+    text-align: center;
+    color: yellow;
+    font-size: 72px;
+    font-family: sans-serif;
+    background-color: black;
+}
+p {
+    display: inline;
+    font-size: 35px;
+    font-family: 'Trebuchet MS';
+    color: white;
+}
+.aquaMarine {
+    display: inline-block;
+    height: 350px;
+    width: 350px;
+    background: #84FFCF;
+    margin: 101px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.orange {
+    display: inline-block;
+    height: 350px;
+    width: 628px;
+    background: #FFB756;
+    margin: 101px;
+    margin-top: 40px;
+}
+.bottom {
+    display: inline-block;
+    height: 260px;
+    width: 400px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px red dotted;
+}
+.picBackdrop {
+    background-position: center;
+    background-size: cover;
+}
+#bg {
+    background-image: url(images/elephant.jpg);
+}
+footer {
+    height: 140px;
+    background-color:#5A457E;
+}
