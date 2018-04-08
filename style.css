@@ -56,16 +56,16 @@ p {
 .bottom {
   width: 100%;
   display: flex;
-  margin-bottom: 20px;
+  margin-top: -40px;
+  margin-bottom: 60px;
 }
 
 .bottom-div {
   display: inline-block;
   height: 260px;
   width: 400px;
-  margin-left: 100px;
-  margin-right: 100px;
-  border: 5px red dotted;
+  margin-left: 220px;
+  margin-right: 220px;
 }
 
 .picBackdrop {
